@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/seu-username/seu-username/main/banner_amarelo_ondas.jpg" alt="Banner com ondas amarelas" width="100%"/>
+<img src="[https://raw.githubusercontent.com/seu-username/seu-username/main/banner_amarelo_ondas.jpg](https://i.pinimg.com/1200x/2a/dd/fb/2addfb291f6a9c362418c4fbc4d39981.jpg)" alt="Banner com ondas amarelas" width="100%"/>
 
 # Maria Vitória Andretti Machado
 <br>
