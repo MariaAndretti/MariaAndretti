@@ -5,14 +5,14 @@
 # Pablo
 <br>
 <p>Desenvolvedor de Sistemas</p>
-<img src="https://raw.githubusercontent.com/seu-username/seu-username/main/llama_pixel.png" alt="Llama pixel art com estrelas" width="200"/>
+<img src="https://i.pinimg.com/originals/2a/dd/fb/2addfb291f6a9c362418c4fbc4d39981.jpg" alt="Llama pixel art fofa com estrelas" width="250" height="250"/>
 
 👨‍💻
 
 ## Sobre mim
 - Estudante de Desenvolvimento de Sistemas
 - Apaixonado por programação e tech
-- De [sua cidade/estado, ex: Florianópolis, SC] 🇧🇷
+- De [sua cidade/estado] 🇧🇷
 
 ## Techs que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +25,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](seu-instagram)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical) [web:1][web:7]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
 
 </div>
 
