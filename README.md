@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MariaAndretti/MariaAndretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/seu-username/seu-username/main/banner_amarelo_ondas.jpg" alt="Banner com ondas amarelas" width="100%"/>
 
-Here are some ideas to get you started:
+# Pablo
+<br>
+<p>Desenvolvedor de Sistemas</p>
+<img src="https://raw.githubusercontent.com/seu-username/seu-username/main/llama_pixel.png" alt="Llama pixel art com estrelas" width="200"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻
+
+## Sobre mim
+- Estudante de Desenvolvimento de Sistemas
+- Apaixonado por programação e tech
+- De [sua cidade/estado, ex: Florianópolis, SC] 🇧🇷
+
+## Techs que uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Redes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](seu-instagram)
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical) [web:1][web:7]
+
+</div>
+
+---
+*Feito com ❤️ para brilhar no GitHub!*
