@@ -1,28 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=ffff00&height=200&section=header" width="100%"/>
-
-  <br>
-
-  <h1 align="center"><font color="#ffff00">Pablo</font></h1>
-  
-  <h3>Estudante de Desenvolvimento de Sistemas</h3>
-
-  <br>
-
-  <p align="center">
-    <a href="https://github.com/PabloKauaTCosta">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="LINK_DO_SEU_LINKEDIN">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </p>
-
-  <br>
-
-  <img src="LINK_DA_SUA_IMAGEM_PIXEL_ART" width="300px">
-
-  <br>
-
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=ffff00&height=100&section=footer" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=FFFF00"/>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PlayfairDisplay&pause=1000&color=FFD700&width=435&lines=Pablo)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PlayfairDisplay&pause=1000&color=FFD700&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistema)](https://git.io/typing-svg)
+
+<div align="center">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=PabloKauaTCosta&show_icons=true&bg_color=0d1117&title_color=ffeb3b&text_color=ffffff&icon_color=fdd835"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloKauaTCosta&layout=compact&bg_color=0d1117&title_color=ffeb3b&text_color=ffffff"/>
+</div>
+
+<div>
+    <img width="45%" align="center" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
+    <img width="50%" align="center" alt="gif" src=https://i.pinimg.com/originals/c7/f6/f6/c7f6f68b40b7e3956482c902372fb4af.gif>
+</div>
+
+
