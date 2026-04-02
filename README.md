@@ -12,7 +12,8 @@
 </div>
 
 <div>
-    <img width="45%" align="center" alt="gif" src="496321d937313dfb72e617cd639fab4b.mp4">
+    <img width="45%" align="center" alt="gif" src="![Uploading image.png…]()
+">
     <img width="50%" align="center" alt="gif" src=https://i.pinimg.com/originals/c7/f6/f6/c7f6f68b40b7e3956482c902372fb4af.gif>
 </div>
 
