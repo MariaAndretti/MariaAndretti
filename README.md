@@ -1,33 +1,28 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=ffff00&height=200&section=header" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/seu-username/seu-username/main/banner_amarelo_ondas.jpg" alt="Banner com ondas amarelas" width="100%"/>
+  <br>
 
-# Pablo
-<br>
-<p>Desenvolvedor de Sistemas</p>
-<img src="https://i.pinimg.com/originals/2a/dd/fb/2addfb291f6a9c362418c4fbc4d39981.jpg" alt="Llama pixel art fofa com estrelas" width="250" height="250"/>
+  <h1 align="center"><font color="#ffff00">Pablo</font></h1>
+  
+  <h3>Estudante de Desenvolvimento de Sistemas</h3>
 
-👨‍💻
+  <br>
 
-## Sobre mim
-- Estudante de Desenvolvimento de Sistemas
-- Apaixonado por programação e tech
-- De [sua cidade/estado] 🇧🇷
+  <p align="center">
+    <a href="https://github.com/PabloKauaTCosta">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="LINK_DO_SEU_LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
 
-## Techs que uso
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <br>
 
-## Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](seu-instagram)
+  <img src="LINK_DA_SUA_IMAGEM_PIXEL_ART" width="300px">
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
+  <br>
 
+  <img src="https://capsule-render.vercel.app/content?type=waving&color=ffff00&height=100&section=footer" width="100%"/>
 </div>
-
----
-*Feito com ❤️ para brilhar no GitHub!*
