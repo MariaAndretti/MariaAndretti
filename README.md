@@ -12,6 +12,6 @@
 </div>
 
 <div align="center">
-    <img width="45%" alt="gif" src="2addfb291f6a9c362418c4fbc4d39981-removebg-preview.png">
+    <img width="45%" alt="gif" src="coelho 2.png">
     <img width="50%" alt="gif" src="https://i.pinimg.com/originals/c7/f6/f6/c7f6f68b40b7e3956482c902372fb4af.gif">
 </div>
