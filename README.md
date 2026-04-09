@@ -2,9 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=27408B"/>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=27408B&width=435&lines=Maria+Vitória)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=EEDD82&width=435&lines=Maria+Vitória)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=27408B&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistema)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=EEDD82&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistema)
 
 <div align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MariaAndretti&show_icons=true&bg_color=#27408B&title_color=ffeb3b&text_color=ffffff&icon_color=fdd835"/>
