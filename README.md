@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=327DBB&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistema)
 
 <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MariaAndretti&show_icons=true&bg_color=0d1117&title_color=ffeb3b&text_color=ffffff&icon_color=fdd835"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MariaAndretti&show_icons=true&bg_color=#27408B&title_color=ffeb3b&text_color=ffffff&icon_color=fdd835"/>
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAndretti&layout=compact&bg_color=0d1117&title_color=ffeb3b&text_color=ffffff"/>
 </div>
 
