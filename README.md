@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=#27408B"/>
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=27408B"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=327DBB&width=435&lines=Maria+Vitória)
