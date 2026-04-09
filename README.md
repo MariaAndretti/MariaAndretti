@@ -13,5 +13,5 @@
 
 <div align="center">
     <img width="45%" alt="gif" src="coelho 2.png">
-    <img width="50%" alt="gif" src="estrelas 2.png">
+    <img width="50%" alt="gif" src="estrelas.png">
 </div>
