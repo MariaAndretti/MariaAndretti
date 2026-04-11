@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=27408B"/>
+</div>
+
 <div align="left">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=EEDD82&width=435&lines=Maria+Vitória+Andretti+Machado)
