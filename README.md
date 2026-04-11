@@ -12,6 +12,5 @@
 </div>
 
 <div align="center">
-    <img width="45%" alt="gif" src="coelho 2.png">
-    <img width="50%" alt="gif" src="estrelas.png">
+    <img width="45%" alt="gif" src="gif coelho.gif">
 </div>
