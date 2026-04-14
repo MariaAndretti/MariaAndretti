@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&display&pause=1000&color=EEDD82&width=435&lines=Maria+Vitória+Andretti+Machado)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&display&pause=1000&color=EEDD82&repeat=false&width=700&lines=Estudante+de+Desenvolvimento+de+Sistemas)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&display&pause=1000&color=EEDD82&repeat=false&width=900&lines=Estudante+de+Desenvolvimento+de+Sistemas)
 
 </div>
 
